@@ -1,0 +1,42 @@
+/*blue #4A90E2
+gray #D8D8D8
+teal #50E3C2
+lime #B8E986
+yellow #F8E71C
+*/
+.graybar {
+    background: #D8D8D8;
+    height: 130px;
+    width: 100%; 
+}
+.bluebox {
+    background: #4A90E2;
+    height: 83px;
+    width: 83px;
+    position: absolute;
+    top: 8px;
+    left: 12px;
+}
+.bluebox + p {
+    margin: 90px;
+}
+.blue {
+    background:  #4A90E2;
+    height: 130px;
+    width: 100%;
+}
+.teal {
+    background: #50E3C2;
+    height: 130px;
+    width: 100%;
+}
+.lime {
+    background: #B8E986;
+    height: 130px;
+    width: 100%;
+}
+.yellow {
+    background: #F8E71C;
+    height: 130px;
+    width: 100%;
+}
